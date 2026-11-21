@@ -73,3 +73,8 @@ PUI89 Sentinel เป็นหุ่นยนต์ภาคพื้นดิ�
 - [ทะเบียนการเปลี่ยนขอบเขตงานในอดีต](docs/SENTINEL_SCOPE_MIGRATION.md)
 
 ใช้คำเรียกสถานะตามหลักฐานเท่านั้น ได้แก่ Proposed, Specified, Implemented, Simulated, Software-tested, Bench-tested, Field-tested, Validated, Certified และ Unknown
+
+
+## แบบฟอร์มสำรวจพื้นที่คลังสินค้า
+
+- [แบบฟอร์มสำรวจและวัดพื้นที่คลังสินค้า v0.1](docs/SENTINEL_WAREHOUSE_SITE_SURVEY_WORKSHEET_V0.1_TH.md) — แบบฟอร์มเปล่าสำหรับเก็บข้อมูลจากสถานที่ที่ได้รับอนุญาต ยังไม่มีการอ้างว่าได้สำรวจหรือวัดจริงแล้ว
