@@ -67,6 +67,9 @@ PUI89 Sentinel เป็นหุ่นยนต์ภาคพื้นดิ�
 - [ข้อกำหนดหุ่นยนต์ตรวจสอบแบบสี่ขา](docs/SENTINEL_ALL_TERRAIN_INSPECTION_ROBOT_DOG_REQUIREMENTS_V0.2.md)
 - [กรอบวิศวกรรมน้ำหนักเบาถึงสมดุล v0.1](docs/SENTINEL_LIGHTWEIGHT_BALANCED_ENGINEERING_BASELINE_V0.1_TH.md)
 - [กรอบบัญชีน้ำหนักและการคำนวณขนาดชุดขับ v0.1](docs/SENTINEL_MASS_BUDGET_ACTUATOR_SIZING_FRAMEWORK_V0.1_TH.md)
+- [รูปแบบภารกิจตรวจสอบคลังสินค้าตัวแทน v0.1](docs/SENTINEL_REPRESENTATIVE_MISSION_PROFILE_V0.1_TH.md)
+- [ตารางกรณีรับแรงของข้อต่อ v0.1](docs/SENTINEL_JOINT_LOAD_CASE_MATRIX_V0.1_TH.md)
+- [ข้อกำหนดรูปทรงเรขาคณิตหุ่นยนต์ v0.1](docs/SENTINEL_ROBOT_GEOMETRY_SPECIFICATION_V0.1_TH.md)
 - [ทะเบียนการเปลี่ยนขอบเขตงานในอดีต](docs/SENTINEL_SCOPE_MIGRATION.md)
 
 ใช้คำเรียกสถานะตามหลักฐานเท่านั้น ได้แก่ Proposed, Specified, Implemented, Simulated, Software-tested, Bench-tested, Field-tested, Validated, Certified และ Unknown
