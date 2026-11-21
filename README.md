@@ -140,3 +140,8 @@ Battery runtime, chemistry, capacity, cycle life, charging performance and safet
 **Product-specific offline baseline:** Physical local operator controls, local stop/emergency stop, local status/fault indication and safe shutdown. A supervised inspection task may continue only if the approved mission risk assessment, onboard sensing and local operator control permit it. On remote-link loss, use the validated mission-specific response (controlled stop, hold, or a verified safe-point procedure); do not assume return-to-home is always safe. No unattended hazardous movement or remote safety override.
 
 These are development requirements, not claims of implemented, tested or validated capability.
+
+
+## Warehouse Site Survey
+
+- [Warehouse site survey & measurement worksheet v0.1](docs/SENTINEL_WAREHOUSE_SITE_SURVEY_WORKSHEET_V0.1.md) — blank template for authorised site measurements; no site data is claimed.
